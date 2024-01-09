@@ -1,5 +1,5 @@
 # SpaceShooter
-##GamePlay
+## GamePlay
 This project was created alongside chat gpt to assist with areas I was not familiar with. The game was created completely in the Java language. The majority of the program was written from prior experience writing games and following tutorials on youtube.
 
 The game includes the following:
