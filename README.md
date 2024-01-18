@@ -12,3 +12,6 @@ The game includes the following:
 
 background and player were taken from Google and repainted in Microsoft Paint
 
+Space Ship png file downloaded from https://opengameart.org/content/space-ship-building-bits-volume-1
+
+Background was created in Microsoft Paint
