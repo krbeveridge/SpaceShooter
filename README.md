@@ -12,4 +12,3 @@ The game includes the following:
 
 background and player were taken from Google and repainted in Microsoft Paint
 
-https://github.com/krbeveridge/SpaceShooter/assets/112536742/1a4af300-215c-4155-85e7-437d169f78e0
